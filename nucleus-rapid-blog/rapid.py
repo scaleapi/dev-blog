@@ -7,7 +7,7 @@ import os
 import nucleus
 from collections import defaultdict
 
-api_key = 'live_3e2bb78567b3412594f68b0656d99aa1' # Put your own API Key here
+api_key = 'YOUR_API_KEY' # Put your own API Key here
 project_name = 'Finding-Potential-Mislabels-ImagenetVal'
 instruction_batch_name = 'test-instruction-batch'
 regular_batch_name = 'test-regular-batch'
