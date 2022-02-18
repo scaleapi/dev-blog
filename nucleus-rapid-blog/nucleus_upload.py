@@ -11,7 +11,7 @@ import copy
 from imagenet_helper import imagenet
 
 
-API_KEY = 'live_3e2bb78567b3412594f68b0656d99aa1' # Put your own API Key here
+API_KEY = 'YOUR_API_KEY_HERE' # Put your own API Key here
 client = nucleus.NucleusClient(API_KEY, use_notebook=False)
 dataset_name = "Test"
 #dataset_name = "Imagenet Validation with Cleanlab (predicted labels, mislablel score, coarse label)"
